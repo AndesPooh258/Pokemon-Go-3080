@@ -1,5 +1,5 @@
 # Pokemon-Go-3080
-Course project for the IERG3080 Information and Software Engineering Practice, which is a prototype made with c# WPF for an offline, single player Pokemon Go on desktop PC.
+Course project for the IERG3080 Information and Software Engineering Practice, which is a prototype made with C# WPF for an offline, single player Pokemon Go on desktop PC.
 ## Requirement
 <ol>
   <li> Navigation: an activity in which the player avatar can walk around a town/forest/etc. and collect pokeballs, pokemon and engage in gym battles;
