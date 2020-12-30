@@ -16,4 +16,5 @@ You can use a 2D map, or use a fake Google Map, or whatever.</li>
   <li> Limited game levels/skills: don't need extensive areas/game levels/skills/items.</li>
   <li> Graphics quality is not expected: simple graphics and animations.</li>
 </ol>
+
 © 2020 Andes Kei and Tracy Chan
