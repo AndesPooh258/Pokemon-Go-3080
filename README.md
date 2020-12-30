@@ -9,7 +9,7 @@ You can use a 2D map, or use a fake Google Map, or whatever.</li>
   <li> Manage Pokemon/Collection: powerup, evolve, name or sell your Pokemon.</li>
   <li> Extra Feature: user can select different PokeBall to catch Pokemon.</li>
 </ol>
-### Limitation
+## Limitation
 <ol>
   <li> Limited Pokemon variation: only need to have at least 5 Pokemons.</li>
   <li> Limited game levels/skills: don't need extensive areas/game levels/skills/items.</li>
